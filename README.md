@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings, traveller.
 
 <!--
 **ethan-leba/ethan-leba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
